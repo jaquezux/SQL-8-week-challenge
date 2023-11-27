@@ -57,6 +57,11 @@ ORDER BY customer_id;
 | B           | 74  |
 | C           | 36  |
 
+To answer this questions, I need two values: the customer IDs and the total amount each customer spent.
+- To get this data, I used an INNER JOIN for <code>sales</code> and <code>menu</code> tables using <code>product_id</code> field.
+- I used GROUP BY <code>customer_id</code> to get them separately.
+- I used the SUM(<code>price</code>) to get the total amount spent by each customer.
+
 ---
 
 **2. How many days has each customer visited the restaurant?**
