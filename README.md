@@ -1,6 +1,4 @@
-# SQL 8 Week Challenge 
-
-<img src='' />
+<img src='https://raw.githubusercontent.com/jaquezux/SQL-8-week-challenge/main/sql8weekchallenge.png' /> <br>
 
 The <a href='https://8weeksqlchallenge.com/about/'>SQL 8 Week Challenge</a> is an apprenticeship program created by <a href='https://www.datawithdanny.com/'>Data With Danny</a>.
 
